@@ -1,3 +1,5 @@
 # Taxi Meter Thai Fare Calculator
 
-| ![Splash](https://github.com/user-attachments/assets/8eb0d378-2d7f-477e-88f3-181945f159e2) | ![Calculator](https://github.com/user-attachments/assets/22dfea7f-28a9-430c-a5c3-b70564857d7e) |
+
+![a5c0bc3f-31ab-4b4d-beda-e789e1ca0192](https://github.com/user-attachments/assets/bc6e4591-c17c-4b4a-83e9-c741be4415dd)
+![1b77d24e-ac2a-4890-a16b-0bd2aec1c205](https://github.com/user-attachments/assets/6872a358-4a83-4bb5-a101-25bbbaee5951)
